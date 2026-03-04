@@ -11,8 +11,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- **Solution URL :** [QR Code Component Solution](https://github.com/therajneeshkumar/QR-code-component#)
+- **Live Site URL :** [QR Code Component](https://therajneeshkumar.github.io/QR-code-component/)
 
 ## My process
 
@@ -72,8 +72,7 @@ I used one AI Tool during this project. This helps me to understand the project 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- **GitHub** - [Rajneesh Kumar](https://github.com/therajneeshkumar)
 
 ## Acknowledgments
 
